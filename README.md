@@ -1,5 +1,5 @@
 # UFO_WARS
-## A shooting game are constructed using openCV, Pose Estimation, and Pygame  
+## A shooting game are constructed using openCV, Pose Estimation, and Pygame.  
 ### menu
 ![image](https://github.com/hao800922/UFO_WARS/blob/master/image/UFO_0.jpg)
 ### Game presentation-1
@@ -15,7 +15,7 @@
 python 3.7  
 tensorflow 2.3  
 openCV 4.4  
-pygame 19.2  
+pygame 1.9.6  
   
 ## How to install?
 $<code>git clone https://github.com/hao800922/UFO_WARS.git</code>  
@@ -24,3 +24,5 @@ $<code>sudo pip3 install -r requirements.txt</code>
     
 ## How to play?
 $<code>python3 UFO_WAR.py</code>  
+X => shoot  
+Q => lightning storm  
