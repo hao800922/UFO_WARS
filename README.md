@@ -18,4 +18,4 @@
 ### pygame 19.2  
   
 ## How to install?
-###<code>AAAA</code>
+<pre><code>AAAA</code></pre>
