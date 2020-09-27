@@ -16,5 +16,6 @@
 ### tensorflow 2.3  
 ### openCV 4.4  
 ### pygame 19.2  
-
-<code>SSSSSSSSSSSSSSS</code>
+  
+## How to install?
+###<code>AAAA</code>
