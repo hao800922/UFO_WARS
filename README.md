@@ -18,4 +18,7 @@
 ### pygame 19.2  
   
 ## How to install?
-<pre><code>AAAA</code></pre>
+$<pre><code>git clone https://github.com/hao800922/UFO_WARS.git</code></pre>
+$<pre><code>cd UFO_WARS</code></pre>
+$<pre><code>sudo pip3</code></pre>
+$<pre><code>python3 </code></pre>
